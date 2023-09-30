@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display:light,normal,bold,italic,bolditalic&display=swap");
+.fw-lighter {
+  font-weight: lighter; }
+
+.fw-normal {
+  font-weight: normal; }
+
+.fw-bold {
+  font-weight: bold; }
+
+.fs-16px {
+  font-size: 16px; }
+
+.fs-18px {
+  font-size: 18px; }
+
+.fs-20px {
+  font-size: 20px; }
+
+.fs-22px {
+  font-size: 22px; }
+
+.fs-24px {
+  font-size: 24px; }
+
+.fs-26px {
+  font-size: 26px; }
+
+.fs-28px {
+  font-size: 28px; }
+
+.fs-30px {
+  font-size: 30px; }
+
+* {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: normal;
+  font-size: 16px; }
+
+h1 {
+  font-size: 28px; }
+
+h2 {
+  font-size: 26px; }
+
+h3 {
+  font-size: 22px; }
+
+h4 {
+  font-size: 18px; }
